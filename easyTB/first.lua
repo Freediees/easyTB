@@ -9,7 +9,7 @@ local composer = require( "composer" )
 local scene = composer.newScene()
 local used_font = "Raleway-Regular.ttf"
 local used_font_bold = "Raleway-Bold.ttf"
-
+  
 local x_mid = display.contentCenterX;
 local y_mid = display.contentCenterY;
 local x_quar1 = x_mid/2
